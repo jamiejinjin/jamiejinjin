@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my AIGC application.
-- 🌱 I’m currently learning typescript.
+- 🔭 I’m currently working on my AIGC application, and conducting my own Chatbot.
+- 🌱 As a full-stack developer I use javascript, react, node.js, python, sql, and typescript.
 - 💪 Fun fact about me: I'm a workout addict, I won third place in a bodybuilding competition, and at the same time doing a full-time coding job.
 <!--
 **jamiejinjin/jamiejinjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
