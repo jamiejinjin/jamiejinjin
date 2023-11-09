@@ -1,5 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my AIGC application, and conducting my own Chatbot.  
+- 🔭 I’m currently working on my AIGC application, and conducting my own Chatbot.
+- AI MegaChat is an AI chat assistant powered by ChatGpt, with the ability to answer two questions in real-time, along with a shining effect✨
+- 
 - 🌱 As a full-stack developer I use javascript, react, node.js, python, sql, and typescript.
 - 💪 Fun fact about me: I'm a workout addict, I won third place in a bodybuilding competition, and at the same time doing a full-time coding job.
 <!--
